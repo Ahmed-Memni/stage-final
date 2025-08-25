@@ -40,7 +40,7 @@ npm install
 
 # Run the frontend development server
 npm run dev
-
+```
 The application should now be running on your localhost (typically at `http://localhost:5173` for the frontend, connecting to the backend at port `8000`).
 
 ### Usage
