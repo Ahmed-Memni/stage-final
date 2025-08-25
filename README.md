@@ -1,6 +1,5 @@
-Got it! Here's a **single, complete README** ready to copy-paste directly into GitHub:
 
-````markdown
+
 # Database Chatbot
 
 A conversational AI chatbot that interacts with your Supabase database. It translates natural language queries into SQL commands, executes them, and returns results. It also supports generating visualizations like graphs using Matplotlib, asks clarifying questions when needed, and maintains conversation history for context-aware responses.
@@ -41,7 +40,6 @@ npm install
 
 # Run the frontend development server
 npm run dev
-````
 
 The application should now be running on your localhost (typically at `http://localhost:5173` for the frontend, connecting to the backend at port `8000`).
 
