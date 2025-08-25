@@ -147,3 +147,4 @@ plt.savefig('chart.png')
 Here is the chart of "clients' birthdays per year".
 > Finished chain.
 ```
+<img width="790" height="490" alt="chart-1756122524747" src="https://github.com/user-attachments/assets/64c4883a-ba0c-4447-8774-662394dce14f" />
