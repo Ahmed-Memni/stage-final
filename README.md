@@ -43,7 +43,7 @@ npm run dev
 
 The application should now be running on your localhost (typically at `http://localhost:5173` for the frontend, connecting to the backend at port `8000`).
 
-## Usage
+### Usage
 
 1. Open the frontend in your browser.
 2. On startup, the frontend will prompt you to provide your Supabase connection string.
